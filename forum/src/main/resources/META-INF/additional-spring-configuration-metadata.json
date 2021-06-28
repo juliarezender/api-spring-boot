@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "string.jpa.properties.hibernate.show_sql",
+      "type": "java.lang.String",
+      "description": "Description for string.jpa.properties.hibernate.show_sql."
+  }
+] }
