@@ -4,5 +4,10 @@
       "name": "string.jpa.properties.hibernate.show_sql",
       "type": "java.lang.String",
       "description": "Description for string.jpa.properties.hibernate.show_sql."
-  }
-] }
+    },
+    {
+      "name": "spring.boot.admin.client.url",
+      "type": "java.lang.String",
+      "description": "Description for spring.boot.admin.client.url."
+    }
+  ] }
